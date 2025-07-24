@@ -82,6 +82,7 @@ You must have the [Mini_CRM_Backend](../Mini_CRM_Backend/) running. See its [REA
 6. Forgot password (with email)
 7. Charts and Graphs for the analysis
 8. Email automation
+9. Showing the audit logs in a better way with search and filter
 
 ## License
 ISC
