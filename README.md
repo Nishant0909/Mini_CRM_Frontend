@@ -73,5 +73,16 @@ Mini_CRM_Frontend/
 ## Backend Setup
 You must have the [Mini_CRM_Backend](../Mini_CRM_Backend/) running. See its [README](../Mini_CRM_Backend/README.md) for setup instructions, environment variables, and API details.
 
+#v2 Inhancement
+1. Form Validations
+2. Increse security by double check frontend and backend token comparison and store into db
+3. Can add role wise access super admin, admin, user
+4. Global state for centralize store
+5. Login with otp verification
+6. Forgot password (with email)
+7. Charts and Graphs for the analysis
+8. Email automation
+9. 
+
 ## License
 ISC
